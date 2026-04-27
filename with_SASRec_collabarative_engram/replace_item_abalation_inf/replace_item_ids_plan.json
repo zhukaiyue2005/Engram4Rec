@@ -1,0 +1,724 @@
+{
+  "samples": [
+    {
+      "sample_idx": 0,
+      "primary_history_style_group": "3d_printing",
+      "target_style_group": "3d_printing",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "janitorial_cleaning"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "janitorial_cleaning",
+          "candidate_item_ids": [
+            65,
+            81,
+            82,
+            83,
+            87,
+            162,
+            179,
+            198
+          ],
+          "candidate_titles": [
+            "Craftsman 12004 6 Gallon 3 Peak HP Wet/Dry Vac",
+            "Eureka As1095A Professional Bagless Upright Vacuum Cleaner with High Flow Air Channels-Corded, White",
+            "Rubbermaid Commercial Slim Jim End Step-On Trash Can, Stainless Steel, 13 Gallon, White",
+            "Vacuum Pump - 12V",
+            "Stanley Wet/Dry Vacuum, 1 Gallon, 1.5 Horsepower"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 1,
+      "primary_history_style_group": "electrical_electronics",
+      "target_style_group": "adhesive_tape_sealant",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "janitorial_cleaning"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "janitorial_cleaning",
+          "candidate_item_ids": [
+            65,
+            81,
+            82,
+            83,
+            87,
+            162,
+            179,
+            198
+          ],
+          "candidate_titles": [
+            "Craftsman 12004 6 Gallon 3 Peak HP Wet/Dry Vac",
+            "Eureka As1095A Professional Bagless Upright Vacuum Cleaner with High Flow Air Channels-Corded, White",
+            "Rubbermaid Commercial Slim Jim End Step-On Trash Can, Stainless Steel, 13 Gallon, White",
+            "Vacuum Pump - 12V",
+            "Stanley Wet/Dry Vacuum, 1 Gallon, 1.5 Horsepower"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 2,
+      "primary_history_style_group": "electrical_electronics",
+      "target_style_group": "adhesive_tape_sealant",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "janitorial_cleaning"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "janitorial_cleaning",
+          "candidate_item_ids": [
+            65,
+            81,
+            82,
+            83,
+            87,
+            162,
+            179,
+            198
+          ],
+          "candidate_titles": [
+            "Craftsman 12004 6 Gallon 3 Peak HP Wet/Dry Vac",
+            "Eureka As1095A Professional Bagless Upright Vacuum Cleaner with High Flow Air Channels-Corded, White",
+            "Rubbermaid Commercial Slim Jim End Step-On Trash Can, Stainless Steel, 13 Gallon, White",
+            "Vacuum Pump - 12V",
+            "Stanley Wet/Dry Vacuum, 1 Gallon, 1.5 Horsepower"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 3,
+      "primary_history_style_group": "adhesive_tape_sealant",
+      "target_style_group": "plumbing_fittings",
+      "suggested_opposite_style_groups": [
+        "lab_science",
+        "medical_dental",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 4,
+      "primary_history_style_group": "other_misc",
+      "target_style_group": "other_misc",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 5,
+      "primary_history_style_group": "raw_materials_metals",
+      "target_style_group": "other_misc",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "janitorial_cleaning",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "janitorial_cleaning",
+          "candidate_item_ids": [
+            65,
+            81,
+            82,
+            83,
+            87,
+            162,
+            179,
+            198
+          ],
+          "candidate_titles": [
+            "Craftsman 12004 6 Gallon 3 Peak HP Wet/Dry Vac",
+            "Eureka As1095A Professional Bagless Upright Vacuum Cleaner with High Flow Air Channels-Corded, White",
+            "Rubbermaid Commercial Slim Jim End Step-On Trash Can, Stainless Steel, 13 Gallon, White",
+            "Vacuum Pump - 12V",
+            "Stanley Wet/Dry Vacuum, 1 Gallon, 1.5 Horsepower"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 6,
+      "primary_history_style_group": "other_misc",
+      "target_style_group": "other_misc",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 7,
+      "primary_history_style_group": "other_misc",
+      "target_style_group": "adhesive_tape_sealant",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 8,
+      "primary_history_style_group": "other_misc",
+      "target_style_group": "other_misc",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    },
+    {
+      "sample_idx": 9,
+      "primary_history_style_group": "other_misc",
+      "target_style_group": "other_misc",
+      "suggested_opposite_style_groups": [
+        "medical_dental",
+        "lab_science",
+        "3d_printing"
+      ],
+      "replace_item_ids_by_group": [
+        {
+          "style_group": "medical_dental",
+          "candidate_item_ids": [
+            12,
+            52,
+            77,
+            104,
+            110,
+            144,
+            164,
+            181
+          ],
+          "candidate_titles": [
+            "Medline DYND70102H Enema Bag Sets",
+            "Philips Sonicare Powerup Pink",
+            "H-B DURAC B60800-3100 General Purpose Liquid-In-Glass Thermometer; -20 to 150&deg;C, Total Immersion, Organic Liquid Fill",
+            "Nubee Temperature Gun Non-contact Digital Laser Infrared IR Thermometer",
+            "Dynarex 2513 SafeTouch Nitrile Exam Gloves, Non-Latex, Powder Free, Large, Blue (Pack of 100)"
+          ]
+        },
+        {
+          "style_group": "lab_science",
+          "candidate_item_ids": [
+            32,
+            41,
+            66,
+            92,
+            108,
+            118,
+            214,
+            222
+          ],
+          "candidate_titles": [
+            "Learning Resources Ph Paper",
+            "Vktech 100PCS 0.2ml Graduated Pipettes Dropper Polyethylene",
+            "Thick Glass Graduated Measuring Cylinder Set 5ml 10ml 50ml 100ml Glass with Two Brushes",
+            "Apera Instruments AI311 PH60 Premium Waterproof pH Pocket Tester, Replaceable Probe, &plusmn;0.01 pH Accuracy, -2.00-16.00 pH Range",
+            "2000ml Beaker, Low Form Griffin, Borosilicate 3.3 Glass, Graduated, Karter Scientific 213D20"
+          ]
+        },
+        {
+          "style_group": "3d_printing",
+          "candidate_item_ids": [
+            25,
+            39,
+            40,
+            48,
+            163,
+            169,
+            170,
+            183
+          ],
+          "candidate_titles": [
+            "HATCHBOX PLA 3D Printer Filament, Dimensional Accuracy +/- 0.03 mm, 1 kg Spool, 1.75 mm, Glow in the Dark",
+            "Taulman BRIDGE Filament, 1.75 mm, BLACK",
+            "3D printer Filament 1.75 ABS Red 1kg 2.2lb 100% USA",
+            "Cutequeen 3D-PLA-1.75mm-1KG 3D Printer Filament,1.75 mm Diameter,Dimensional Accuracy +/- 0.05mm,1000g Spool,White",
+            "3D Solutech See Through Blue 1.75mm PETG 3D Printer Filament 2.2 LBS (1.0KG)"
+          ]
+        }
+      ]
+    }
+  ]
+}

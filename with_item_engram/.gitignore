@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.hf_cache/
+cache/
+logs/
+wandb/
+
+output*/
+checkpoint-*/
+*.log
+*.jsonl.tmp
