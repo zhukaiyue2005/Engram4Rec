@@ -63,7 +63,7 @@ Engram4Rec/
 │   ├── sft.sh
 │   ├── inference.py
 │   └── inference_SFT.sh
-└── with_SASRec_collabarative_engram/     # SASRec collaborative Engram model and analysis tools
+└── with_SASRec_collaborative_engram/     # SASRec collaborative Engram model and analysis tools
     ├── train_sasrec.py
     ├── train_sasrec.sh
     ├── evaluate_sasrec.py
@@ -163,20 +163,20 @@ The Engram implementation is under `with_normal_engram/Engram_Insert_code/`.
 This variant uses a pretrained SASRec item embedding table. Train the SASRec model first:
 
 ```bash
-cd with_SASRec_collabarative_engram
+cd with_SASRec_collaborative_engram
 bash train_sasrec.sh
 ```
 
 By default, `train_sasrec.sh` writes the best checkpoint to:
 
 ```text
-with_SASRec_collabarative_engram/SAS-checkpoints/sasrec_best.pt
+with_SASRec_collaborative_engram/SAS-checkpoints/sasrec_best.pt
 ```
 
 Then run LM fine-tuning with the SASRec checkpoint:
 
 ```bash
-cd with_SASRec_collabarative_engram
+cd with_SASRec_collaborative_engram
 export SASREC_CHECKPOINT_PATH="./SAS-checkpoints/sasrec_best.pt"
 bash sft.sh
 ```

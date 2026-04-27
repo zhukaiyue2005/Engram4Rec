@@ -10,7 +10,7 @@ export PYTHONUNBUFFERED=1
 BASE_MODEL="${BASE_MODEL:-Qwen3-1.7B}"
 CHECKPOINT_PATH="${CHECKPOINT_PATH:-./output_sft_sasrec_item_spans_layers=6,13,20/final_checkpoint_sft}"
 MASTER_PORT="${MASTER_PORT:-49225}"
-LOG_FILE="${LOG_FILE:-eval_with_SASRec_collabarative_engram.log}"
+LOG_FILE="${LOG_FILE:-eval_with_SASRec_collaborative_engram.log}"
 
 if [[ ! -d "$CHECKPOINT_PATH" ]]; then
     echo "[Error] checkpoint not found: $CHECKPOINT_PATH"

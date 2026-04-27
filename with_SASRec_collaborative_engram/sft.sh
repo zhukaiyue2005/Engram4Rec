@@ -22,6 +22,6 @@ torchrun --nproc_per_node "${NPROC_PER_NODE:-2}" --master_port="${MASTER_PORT:-3
     --eval_file "${EVAL_FILE:-../data/Industrial_and_Scientific_dataset/valid.jsonl}" \
     --info_file "${INFO_FILE:-../data/Amazon/info/Industrial_and_Scientific_5_1996-10-2018-11.txt}" \
     --sasrec_checkpoint_path "${SASREC_CHECKPOINT_PATH:-./SAS-checkpoints/sasrec_best.pt}" \
-    --wandb_project "${WANDB_PROJECT:-Qwen3_ReRe_1.7B__Industrial_and_Scientific_full_rank__with_SASRec_collabarative_engram}" \
-    --wandb_name "${WANDB_NAME:-Qwen3_ReRe_1.7B__Industrial_and_Scientific_full_rank__with_SASRec_collabarative_engram__sft}" \
-    > "${LOG_FILE:-sft_with_SASRec_collabarative_engram.log}" 2>&1
+    --wandb_project "${WANDB_PROJECT:-Qwen3_ReRe_1.7B__Industrial_and_Scientific_full_rank__with_SASRec_collaborative_engram}" \
+    --wandb_name "${WANDB_NAME:-Qwen3_ReRe_1.7B__Industrial_and_Scientific_full_rank__with_SASRec_collaborative_engram__sft}" \
+    > "${LOG_FILE:-sft_with_SASRec_collaborative_engram.log}" 2>&1
