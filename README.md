@@ -160,9 +160,25 @@ The Engram implementation is under `with_normal_engram/Engram_Insert_code/`.
 
 ### 4. Train the SASRec collaborative Engram model
 
+This variant uses a pretrained SASRec item embedding table. Train the SASRec model first:
+
 ```bash
 cd with_SASRec_collabarative_engram
 bash train_sasrec.sh
+```
+
+By default, `train_sasrec.sh` writes the best checkpoint to:
+
+```text
+with_SASRec_collabarative_engram/SAS-checkpoints/sasrec_best.pt
+```
+
+Then run LM fine-tuning with the SASRec checkpoint:
+
+```bash
+cd with_SASRec_collabarative_engram
+export SASREC_CHECKPOINT_PATH="./SAS-checkpoints/sasrec_best.pt"
+bash sft.sh
 ```
 
 <p id="Softmax-DPO"></p>
